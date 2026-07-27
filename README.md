@@ -6,36 +6,11 @@
 
 </div>
 
-<table>
-  <tr>
-    <td width="360" valign="middle">
-      <img src="https://raw.githubusercontent.com/arahman-dulz0/arahman-dulz0/main/assets/portrait.png" width="360" alt="Abdul Rahman" />
-    </td>
-    <td valign="middle">
+<div align="center">
 
-<pre>
-abdul@blackbox
-──────────────────────────────────────
-Role       : Cybersecurity Undergraduate
-CTF        : CTF Engineer  ·  HackTheBox Player
-Education  : BSc (Hons) Cyber Security
-Focus      : Offensive · Defensive · Cloud · AI
-Skills     : Pentesting · AD Exploitation · SOC
-Frameworks : OWASP Top 10 · MITRE ATT&amp;CK
-Languages  : Python · Bash · JavaScript
-Cloud      : AWS · Azure
-Learning   : Cloud Security · AI / LLM Security
-Certs      : CRTA · AD-RTS · CNPen · SOC
-──────────────────────────────────────
-LinkedIn   : /in/abdul-rahman
-GitHub     : @arahman-dulz0
-HackTheBox : dulz0
-Email      : arahman23nazmi@gmail.com
-</pre>
+<img src="https://raw.githubusercontent.com/arahman-dulz0/arahman-dulz0/main/assets/terminal_card.png" width="840" alt="Abdul Rahman — Cybersecurity Undergraduate · CTF Engineer" />
 
-  </td>
-  </tr>
-</table>
+</div>
 
 <div align="center">
 
