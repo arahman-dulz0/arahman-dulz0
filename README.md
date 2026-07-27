@@ -8,12 +8,6 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/arahman-dulz0/arahman-dulz0/main/assets/terminal_card.png" width="840" alt="Abdul Rahman — Cybersecurity Undergraduate · CTF Engineer" />
-
-</div>
-
-<div align="center">
-
 ![Offensive Security](https://img.shields.io/badge/Offensive_Security-0D1117?style=flat-square&logo=hackthebox&logoColor=9FEF00)
 ![Defensive Security](https://img.shields.io/badge/Defensive_Security-0D1117?style=flat-square&logo=datadog&logoColor=632CA6)
 ![Cloud Security](https://img.shields.io/badge/Cloud_Security-0D1117?style=flat-square&logo=cloudflare&logoColor=F38020)
