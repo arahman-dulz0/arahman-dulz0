@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;CTF+Player+%26+Linux+Enthusiast;Offensive+%7C+Defensive+%7C+Cloud+%7C+AI+Security)](https://github.com/arahman-dulz0)
 
-Breaking, defending, and automating systems — one packet at a time.
+Breaking, defending, and automating systems, one packet at a time.
 
 <br/>
 
@@ -18,50 +18,50 @@ Breaking, defending, and automating systems — one packet at a time.
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
 I'm a cybersecurity engineer driven by a simple idea: **to defend a system well, you first have to understand how it breaks.**
 
-I'm currently pursuing a **BSc (Hons) in Cyber Security** while building a strong, hands-on foundation across **offensive security, threat analysis, and SOC operations**. My work sits at the intersection of red-team tactics and blue-team defense — I value the adversarial mindset of Capture The Flag competitions, the discipline of building resilient infrastructure, and the leverage that comes from automating security at scale.
+I'm currently pursuing a **BSc (Hons) in Cyber Security** while building a strong, hands-on foundation across **offensive security, threat analysis, and SOC operations**. My work lives at the intersection of red-team tactics and blue-team defense. I value the adversarial mindset of Capture The Flag competitions, the discipline of building resilient infrastructure, and the leverage that comes from automating security at scale.
 
 I live in the terminal, script relentlessly, and treat every new tool, exploit class, and cloud primitive as something worth understanding deeply. Security isn't a checklist to me; it's a craft I practice every day.
 
-- Focused on **penetration testing, Active Directory exploitation, and security operations**
-- Multi-time **CTF champion** — web exploitation, privilege escalation, and network penetration
-- **Linux** power user, genuinely at home on the command line
-- Exploring the security of **cloud-native and AI-driven** systems
-- Committed to **continuous learning** and hands-on research
+- 🔐 Focused on **penetration testing, Active Directory exploitation, and security operations**
+- 🚩 Active **CTF player** across web exploitation, privilege escalation, and network penetration
+- 🐧 **Linux** power user, genuinely at home on the command line
+- ☁️ Exploring the security of **cloud-native and AI-driven** systems
+- 📈 Committed to **continuous learning** and hands-on research
 
 ---
 
-## Areas of Interest
+## 🎯 Areas of Interest
 
 <div align="center">
 
 | Domain | Focus |
 | :--- | :--- |
-| **Offensive Security** | Penetration testing, exploitation, red-team methodology |
-| **Defensive Security** | Threat detection, SOC operations, hardening |
-| **Cloud Security** | Securing AWS & Azure workloads, IAM, misconfiguration analysis |
-| **AI Security** | LLM/model threats, prompt injection, adversarial ML |
-| **DevSecOps** | Shifting security left, pipeline hardening, security automation |
+| 🔴 **Offensive Security** | Penetration testing, exploitation, red-team methodology |
+| 🔵 **Defensive Security** | Threat detection, SOC operations, hardening |
+| ☁️ **Cloud Security** | Securing AWS &amp; Azure workloads, IAM, misconfiguration analysis |
+| 🤖 **AI Security** | LLM/model threats, prompt injection, adversarial ML |
+| ⚙️ **DevSecOps** | Shifting security left, pipeline hardening, security automation |
 
 </div>
 
 ---
 
-## Core Skills
+## 🛠️ Core Skills
 
-- **Vulnerability Assessment & Penetration Testing** — reconnaissance, exploitation, and reporting
-- **Active Directory Exploitation** — enumeration, attack paths, and red-team methodology
-- **Threat Detection & SOC Operations** — log analysis, triage, and incident response fundamentals
-- **Web Application Security** — OWASP Top 10, SQL injection, XSS, CSRF, authentication bypasses
-- **Adversary Frameworks** — MITRE ATT&CK for mapping tactics, techniques, and procedures
-- **Security Automation** — scripting repeatable workflows and integrating security into CI/CD
+- 🔍 **Vulnerability Assessment &amp; Penetration Testing:** reconnaissance, exploitation, and reporting
+- 🏰 **Active Directory Exploitation:** enumeration, attack paths, and red-team methodology
+- 🛡️ **Threat Detection &amp; SOC Operations:** log analysis, triage, and incident response fundamentals
+- 🌐 **Web Application Security:** OWASP Top 10, SQL injection, XSS, CSRF, authentication bypasses
+- 🎯 **Adversary Frameworks:** MITRE ATT&amp;CK for mapping tactics, techniques, and procedures
+- 🤖 **Security Automation:** scripting repeatable workflows and integrating security into CI/CD
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -82,7 +82,7 @@ I live in the terminal, script relentlessly, and treat every new tool, exploit c
 
 ---
 
-## Cybersecurity Tools
+## 🔎 Cybersecurity Tools
 
 <div align="center">
 
@@ -105,7 +105,7 @@ I live in the terminal, script relentlessly, and treat every new tool, exploit c
 
 ---
 
-## Operating Systems
+## 🖥️ Operating Systems
 
 <div align="center">
 
@@ -119,46 +119,52 @@ I live in the terminal, script relentlessly, and treat every new tool, exploit c
 
 ---
 
-## Certifications
+## 📜 Certifications
 
-- **Certified Red Team Analyst (CRTA)** — Cyberwarfare Labs
-- **Certified Active Directory Red Team Specialist (AD-RTS)** — Cyberwarfare Labs
-- **AI Red Team and LLM Hacking** — Udemy
-- **SOC Fundamentals** — LetsDefend
-- **CNPen (Certified Network Penetration Tester)** — The SecOps Group
-
----
-
-## Currently Learning
-
-- Advanced **cloud security** architecture and posture management (AWS & Azure)
-- **AI/LLM security** — adversarial attacks, prompt injection, and model defense
-- Deepening **DevSecOps** practices and infrastructure-as-code security
-- Malware analysis and reverse engineering fundamentals
+- 🔴 **Certified Red Team Analyst (CRTA)** · Cyberwarfare Labs
+- 🏰 **Certified Active Directory Red Team Specialist (AD&#8209;RTS)** · Cyberwarfare Labs
+- 🤖 **AI Red Team and LLM Hacking** · Udemy
+- 🛡️ **SOC Fundamentals** · LetsDefend
+- 🌐 **Certified Network Penetration Tester (CNPen)** · The SecOps Group
 
 ---
 
-## Current Focus
+## 📚 Currently Learning
+
+- ☁️ Advanced **cloud security** architecture and posture management (AWS &amp; Azure)
+- 🤖 **AI/LLM security** including adversarial attacks, prompt injection, and model defense
+- ⚙️ Deepening **DevSecOps** practices and infrastructure-as-code security
+- 🔬 Malware analysis and reverse engineering fundamentals
+
+---
+
+## 🚀 Current Focus
 
 > Sharpening my offensive and defensive skills through **CTF competitions** and hands-on labs, while building automation that makes security **faster, repeatable, and harder to get wrong**.
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arahman-dulz0&show_icons=true&hide_border=true&count_private=true&title_color=9FEF00&icon_color=9FEF00&text_color=C9D1D9&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arahman-dulz0&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&title_color=9FEF00&icon_color=9FEF00&text_color=C9D1D9&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arahman-dulz0&layout=compact&hide_border=true&title_color=9FEF00&text_color=C9D1D9&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arahman-dulz0&layout=compact&hide_border=true&cache_seconds=86400&title_color=9FEF00&text_color=C9D1D9&bg_color=0D1117)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=arahman-dulz0&hide_border=true&background=0D1117&stroke=9FEF00&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9)
 
 </div>
 
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arahman-dulz0&bg_color=0D1117&color=9FEF00&line=9FEF00&point=FFFFFF&area=true&area_color=9FEF00&hide_border=true)
+
+</div>
+
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -171,17 +177,17 @@ I live in the terminal, script relentlessly, and treat every new tool, exploit c
 
 ---
 
-## Fun Facts
+## ⚡ Fun Facts
 
-- I genuinely prefer the terminal over any GUI.
-- A good CTF weekend is my idea of relaxing.
-- I automate anything I have to do more than twice.
-- Powered by curiosity, coffee, and a healthy distrust of default configurations.
+- 🐧 I genuinely prefer the terminal over any GUI.
+- 🚩 A good CTF weekend is my idea of relaxing.
+- 🤖 I automate anything I have to do more than twice.
+- ☕ Powered by curiosity, coffee, and a healthy distrust of default configurations.
 
 <div align="center">
 
 <br/>
 
-*"Security is not a product, but a process." — Bruce Schneier*
+*"Security is not a product, but a process." &mdash; Bruce Schneier*
 
 </div>
