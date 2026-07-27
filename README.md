@@ -2,38 +2,40 @@
 
 # Abdul Rahman
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;CTF+Player+%26+Linux+Enthusiast;Offensive+%7C+Defensive+%7C+Cloud+%7C+AI+Security)](https://github.com/arahman-dulz0)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9FEF00&center=true&vCenter=true&width=620&lines=Cybersecurity+Undergraduate;CTF+Engineer+%26+Linux+Enthusiast;Offensive+%7C+Defensive+%7C+Cloud+%7C+AI+Security)](https://github.com/arahman-dulz0)
 
 </div>
 
-```txt
-......::::::::::::::::::::::::::::......
-..::::::::::::::--:::----::::::::::.....
-::::::::::::---------------:::--::::::..
-::::::---------------------------:::::::
-::-:---------------===--------------::::    abdul@blackbox
-:-----------------::.:---==------------:    ──────────────────────────────
--------------:..        .::-==----------    Role       : Cybersecurity Engineer
----------=-.                :==-=-------    Player     : CTF Player  (HackTheBox)
--------==:                   :===-------    Focus      : Offensive / Defensive
-----====-     :===+++=:.      -=====----                 Cloud / AI Security
---=======    +##%%@@%*+==:    -=======--    OS         : Arch . Kali . Parrot Linux
--========:  .%#+=*%@*--==*: :==========-    Shell      : zsh  +  tmux
--=========. -@%%#@@@%###%%+--==========-    Editor     : Neovim
--======----*#@@@%%**=+#*##*++-=========-    Languages  : Python . Bash . JavaScript
---=---===--+#%@%=+#%#*-:==+*=-========--    Cloud      : AWS . Azure
--------====-+==**%@%#**:..-=-=========--    Learning   : Cloud Sec . AI/LLM Sec
----------------:.:==--.  .=--=----------    Certs      : CRTA . AD-RTS . CNPen . SOC
---------------+*-.      .=:+=-----------    ──────────────────────────────
---------------.+#*+-:.:--. #@#+=-------:    LinkedIn   : /in/abdul-rahman
-::--------=++.  -==---=:  -@@@@@@%*+=--:    GitHub     : @arahman-dulz0
-:::::--+*%@@#   .-===-.  .%@@@@@@@@@@@%#    HackTheBox : dulz0
-:-=*#%@@@@@@@+  .**-.    #@@@@%@@@@@@@@@    Email      : arahman23nazmi@gmail.com
--%@@@@@@@@@@@+   :.     -@@@@@@%@@@@@@@@
-*@@@@@@@@@@@@-          #@@@@@%@@@@@@@@@
-@@@@@@@@@@@@@.         :@@@@@@%@@@@@%%@%
-@@@@@@@@@@@@@          *@@@@@%@@@@@##%%#
-```
+<table>
+  <tr>
+    <td width="360" valign="middle">
+      <img src="https://raw.githubusercontent.com/arahman-dulz0/arahman-dulz0/main/assets/portrait.png" width="360" alt="Abdul Rahman" />
+    </td>
+    <td valign="middle">
+
+<pre>
+abdul@blackbox
+──────────────────────────────────────
+Role       : Cybersecurity Undergraduate
+CTF        : CTF Engineer  ·  HackTheBox Player
+Education  : BSc (Hons) Cyber Security
+Focus      : Offensive · Defensive · Cloud · AI
+Skills     : Pentesting · AD Exploitation · SOC
+Frameworks : OWASP Top 10 · MITRE ATT&amp;CK
+Languages  : Python · Bash · JavaScript
+Cloud      : AWS · Azure
+Learning   : Cloud Security · AI / LLM Security
+Certs      : CRTA · AD-RTS · CNPen · SOC
+──────────────────────────────────────
+LinkedIn   : /in/abdul-rahman
+GitHub     : @arahman-dulz0
+HackTheBox : dulz0
+Email      : arahman23nazmi@gmail.com
+</pre>
+
+  </td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -49,14 +51,14 @@
 
 ## 🧑‍💻 About Me
 
-I'm a cybersecurity engineer driven by a simple idea: **to defend a system well, you first have to understand how it breaks.**
+I'm a cybersecurity undergraduate driven by a simple idea: **to defend a system well, you first have to understand how it breaks.**
 
-I'm currently pursuing a **BSc (Hons) in Cyber Security** while building a strong, hands-on foundation across **offensive security, threat analysis, and SOC operations**. My work lives at the intersection of red-team tactics and blue-team defense. I value the adversarial mindset of Capture The Flag competitions, the discipline of building resilient infrastructure, and the leverage that comes from automating security at scale.
+I'm pursuing a **BSc (Hons) in Cyber Security** while building a strong, hands-on foundation across **offensive security, threat analysis, and SOC operations**. My work lives at the intersection of red-team tactics and blue-team defense. I value the adversarial mindset of Capture The Flag competitions, the discipline of building resilient infrastructure, and the leverage that comes from automating security at scale.
 
 I live in the terminal, script relentlessly, and treat every new tool, exploit class, and cloud primitive as something worth understanding deeply. Security isn't a checklist to me; it's a craft I practice every day.
 
 - 🔐 Focused on **penetration testing, Active Directory exploitation, and security operations**
-- 🚩 Active **CTF player** across web exploitation, privilege escalation, and network penetration
+- 🚩 Active **CTF engineer** across web exploitation, privilege escalation, and network penetration
 - 🐧 **Linux** power user, genuinely at home on the command line
 - ☁️ Exploring the security of **cloud-native and AI-driven** systems
 - 📈 Committed to **continuous learning** and hands-on research
