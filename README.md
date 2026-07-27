@@ -2,7 +2,7 @@
 
 # Abdul Rahman
 
-### Cybersecurity Engineer · CTF Player · Linux Enthusiast
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;CTF+Player+%26+Linux+Enthusiast;Offensive+%7C+Defensive+%7C+Cloud+%7C+AI+Security)](https://github.com/arahman-dulz0)
 
 Breaking, defending, and automating systems — one packet at a time.
 
