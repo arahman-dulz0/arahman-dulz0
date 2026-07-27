@@ -4,9 +4,38 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;CTF+Player+%26+Linux+Enthusiast;Offensive+%7C+Defensive+%7C+Cloud+%7C+AI+Security)](https://github.com/arahman-dulz0)
 
-Breaking, defending, and automating systems, one packet at a time.
+</div>
 
-<br/>
+```txt
+......::::::::::::::::::::::::::::......
+..::::::::::::::--:::----::::::::::.....
+::::::::::::---------------:::--::::::..
+::::::---------------------------:::::::
+::-:---------------===--------------::::    abdul@blackbox
+:-----------------::.:---==------------:    ──────────────────────────────
+-------------:..        .::-==----------    Role       : Cybersecurity Engineer
+---------=-.                :==-=-------    Player     : CTF Player  (HackTheBox)
+-------==:                   :===-------    Focus      : Offensive / Defensive
+----====-     :===+++=:.      -=====----                 Cloud / AI Security
+--=======    +##%%@@%*+==:    -=======--    OS         : Arch . Kali . Parrot Linux
+-========:  .%#+=*%@*--==*: :==========-    Shell      : zsh  +  tmux
+-=========. -@%%#@@@%###%%+--==========-    Editor     : Neovim
+-======----*#@@@%%**=+#*##*++-=========-    Languages  : Python . Bash . JavaScript
+--=---===--+#%@%=+#%#*-:==+*=-========--    Cloud      : AWS . Azure
+-------====-+==**%@%#**:..-=-=========--    Learning   : Cloud Sec . AI/LLM Sec
+---------------:.:==--.  .=--=----------    Certs      : CRTA . AD-RTS . CNPen . SOC
+--------------+*-.      .=:+=-----------    ──────────────────────────────
+--------------.+#*+-:.:--. #@#+=-------:    LinkedIn   : /in/abdul-rahman
+::--------=++.  -==---=:  -@@@@@@%*+=--:    GitHub     : @arahman-dulz0
+:::::--+*%@@#   .-===-.  .%@@@@@@@@@@@%#    HackTheBox : dulz0
+:-=*#%@@@@@@@+  .**-.    #@@@@%@@@@@@@@@    Email      : arahman23nazmi@gmail.com
+-%@@@@@@@@@@@+   :.     -@@@@@@%@@@@@@@@
+*@@@@@@@@@@@@-          #@@@@@%@@@@@@@@@
+@@@@@@@@@@@@@.         :@@@@@@%@@@@@%%@%
+@@@@@@@@@@@@@          *@@@@@%@@@@@##%%#
+```
+
+<div align="center">
 
 ![Offensive Security](https://img.shields.io/badge/Offensive_Security-0D1117?style=flat-square&logo=hackthebox&logoColor=9FEF00)
 ![Defensive Security](https://img.shields.io/badge/Defensive_Security-0D1117?style=flat-square&logo=datadog&logoColor=632CA6)
@@ -121,11 +150,11 @@ I live in the terminal, script relentlessly, and treat every new tool, exploit c
 
 ## 📜 Certifications
 
-- 🔴 **Certified Red Team Analyst (CRTA)** · Cyberwarfare Labs
-- 🏰 **Certified Active Directory Red Team Specialist (AD&#8209;RTS)** · Cyberwarfare Labs
-- 🤖 **AI Red Team and LLM Hacking** · Udemy
-- 🛡️ **SOC Fundamentals** · LetsDefend
-- 🌐 **Certified Network Penetration Tester (CNPen)** · The SecOps Group
+- 🔴 **Certified Red Team Analyst (CRTA)** &nbsp;·&nbsp; Cyberwarfare Labs
+- 🏰 **Certified Active Directory Red Team Specialist (AD-RTS)** &nbsp;·&nbsp; Cyberwarfare Labs
+- 🤖 **AI Red Team and LLM Hacking** &nbsp;·&nbsp; Udemy
+- 🛡️ **SOC Fundamentals** &nbsp;·&nbsp; LetsDefend
+- 🌐 **Certified Network Penetration Tester (CNPen)** &nbsp;·&nbsp; The SecOps Group
 
 ---
 
@@ -148,15 +177,11 @@ I live in the terminal, script relentlessly, and treat every new tool, exploit c
 
 <div align="center">
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=arahman-dulz0&hide_border=true&background=0D1117&stroke=9FEF00&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arahman-dulz0&show_icons=true&hide_border=true&count_private=true&cache_seconds=86400&title_color=9FEF00&icon_color=9FEF00&text_color=C9D1D9&bg_color=0D1117)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arahman-dulz0&layout=compact&hide_border=true&cache_seconds=86400&title_color=9FEF00&text_color=C9D1D9&bg_color=0D1117)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=arahman-dulz0&hide_border=true&background=0D1117&stroke=9FEF00&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9)
-
-</div>
-
-<div align="center">
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arahman-dulz0&bg_color=0D1117&color=9FEF00&line=9FEF00&point=FFFFFF&area=true&area_color=9FEF00&hide_border=true)
 
@@ -187,6 +212,8 @@ I live in the terminal, script relentlessly, and treat every new tool, exploit c
 <div align="center">
 
 <br/>
+
+[![Footer](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=9FEF00&center=true&vCenter=true&width=520&lines=Always+learning.+Always+securing.;Thanks+for+visiting+my+profile!)](https://github.com/arahman-dulz0)
 
 *"Security is not a product, but a process." &mdash; Bruce Schneier*
 
